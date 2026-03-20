@@ -2,8 +2,8 @@ import requests
 from tradingview_ta import TA_Handler, Interval
 
 # --- CONFIG ---
-TOKEN = "7336785461:AAH_qXyZ1234567890abcdefghIJKLM" # <--- Apna lamba token yahan dalo
-CHAT_ID = "5841074092" # <--- Aapki confirm ID
+TOKEN = "8752696021:AAH8fdDPMjT4wWgBbzSp_3PnSOQY-K6jXXQ" # <--- Apna lamba token yahan dalo
+CHAT_ID = "1137257949" # <--- Aapki confirm ID
 
 # Aapke 12 CME Symbols (H1 aur H4)
 SYMBOLS = [
